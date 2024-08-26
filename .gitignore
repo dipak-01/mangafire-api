@@ -1,0 +1,28 @@
+logs/
+
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+build/
+dist/
+out/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Compiled binaries or executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Package files
+*.tar.gz
+
+# Coverage reports
+coverage/
